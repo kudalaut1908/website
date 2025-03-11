@@ -1,0 +1,45 @@
+body{
+	font-family:comfortaa;
+	background-color:#00c7fc;
+	background-image:url("bango.png");
+	background-size:10px;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+
+h1{
+	background-color:#587925;
+	color:black;
+	font-size:100px;
+	text-align:center;
+	padding:20px 0;
+}
+
+h2{
+	background-color:#587925;
+	color:black;
+	font-size:100px;
+	text-align:center;
+	padding:20px 0;
+
+}
+
+h3{
+	background-color:#587925;
+	color:black;
+	font-size:100px;
+	text-align:center;
+	padding:20px 0;
+}
+
+p {
+  font-size: 120px;
+color:#00ff9b;
+}
+footer{
+	background-color: #ff8700;
+	color:idk;
+	padding:50px;
+}
+
